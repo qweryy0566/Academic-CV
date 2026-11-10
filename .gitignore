@@ -9,3 +9,4 @@ output/
 *.synctex.gz
 *.xdv
 
+*copy.tex
